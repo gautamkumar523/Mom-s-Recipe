@@ -1,0 +1,70 @@
+.mainHeading {
+    font-family: cursive;
+    text-align: center;
+    margin-bottom: 0px;
+    border: 0px;
+    font-size: 50px;
+    color: rgb(0, 255, 255);
+}
+
+.heading {
+    text-align: right;
+    border: 0px;
+    margin: 0px;
+    padding-right: 35%;
+    font-size: large;
+    color: white;
+
+}
+
+.maincontainer {
+    padding-top: 20px;
+}
+
+.btn {
+    text-align: right;
+    padding-right: 7%;
+}
+
+.button {
+    margin-right: 20px;
+    border: 0px;
+    border-color: rgb(0, 0, 0);
+    border-radius: 5px;
+    width: 100px;
+    height: 25px;
+    margin-bottom: 10px;
+    font-size: medium;
+    background-color: chartreuse;
+    color: black;
+
+}
+
+.searchbox {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    font-size: large;
+    border-radius: 5px;
+}
+
+.fooditems {
+    width: 400px;
+    font-size: 25px;
+    border: 2px;
+    text-align: center;
+    margin: 12px;
+}
+
+.subheading {
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+
+.imgfood {
+    align-items: center;
+}
+
+.food {
+    width: fit-content;
+    margin-bottom: 50px;
+}
